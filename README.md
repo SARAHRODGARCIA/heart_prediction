@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="A_3D-rendered_digital_image_of_a_heart_composed_of.png" alt="Heart Prediction Project" width="600"/>
+</p>
+
 # Cardiovascular Disease Prediction 💚
 Predictive model for cardiovascular disease using real patient data. Features include age, gender, height, weight, glucose levels, smoking, alcohol intake, and physical activity. The model helps identify patients at risk and supports early intervention.
 
